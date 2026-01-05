@@ -7,9 +7,9 @@ However, I am doing this so I can learn Flutter.
 
 ## Progress
 
-**In development**
+**Archived**
 
-There's still a lot to be done. The users should be able to:
+There's still a lot to be done, but I will not be doing it. The users should be able to:
 
 - [ ] View the optimal layout for the app depending on their device's screen size
 - [x] Shorten any valid URL
